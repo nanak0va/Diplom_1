@@ -3,7 +3,7 @@ package praktikum;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-public class BaseTest {
+public abstract class BaseTest {
 
     public static final float DELTA = 0.001f;
 
